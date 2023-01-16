@@ -1,5 +1,5 @@
-# UnityQuiz
-This is Quiz game made using Unity. Project is made with help from Unity realesed tutorial for beginners, it is for education purpose.
+# unity-quiz
+This is 2d-quiz game made using Unity. Project is made with help from Unity realesed tutorial for beginners, it is for education purpose.
 
 # Project Includes
 - Points score
